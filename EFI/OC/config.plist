@@ -557,7 +557,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02003310QXLNV9UE</string>
+			<string>MLB Here</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -571,9 +571,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02C4ZZAJV3Q</string>
+			<string>SerialNumber Here</string>
 			<key>SystemUUID</key>
-			<string>BC46EFD7-05F1-4E4D-97F6-DE9E9ED0AABF</string>
+			<string>systemUuid Here</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
