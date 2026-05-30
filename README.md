@@ -79,4 +79,4 @@ If you plan to use a dGPU, expect to modify the EFI.
 
 ---
 
-#modifying config.plist efi and shows error is my biggest fear
+### modifying config.plist efi and shows error is my biggest fear
