@@ -76,3 +76,7 @@ If you plan to use a dGPU, expect to modify the EFI.
 - iGPU is supported out of the box  
 - dGPU requires manual configuration  
 - Tahoe is not supported until Dortania releases stable guidance
+
+---
+
+#modifying config.plist efi and shows error is my biggest fear
